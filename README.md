@@ -1,2 +1,2 @@
 # interpreter
-A interpreter developed using YACC/Bison and Flex 
+An Programming Language Interpreter developed using YACC/Bison and Flex 
