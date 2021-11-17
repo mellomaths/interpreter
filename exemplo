@@ -1,0 +1,9 @@
+inteiro a = 2
+a = 3
+inteiro b = 2
+inteiro c = a + b
+escreve c
+
+inteiro d
+le d
+
